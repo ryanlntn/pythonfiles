@@ -1,0 +1,16 @@
+*** Installation started 2010/02/20 02:26 ***
+Source: C:\Python26\python-gasp-0.2.0beta1.win32.exe
+999 Root Key: HKEY_LOCAL_MACHINE
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]gasp-py2.6
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\gasp-py2.6]DisplayName=Python 2.6 gasp-0.2.0beta1
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\gasp-py2.6]UninstallString="C:\Python26\Removegasp.exe" -u "C:\Python26\gasp-wininst.log"
+100 Made Dir: C:\Python26\Lib\site-packages\gasp
+200 File Copy: C:\Python26\Lib\site-packages\gasp\api.py
+200 File Copy: C:\Python26\Lib\site-packages\gasp\__init__.py
+200 File Copy: C:\Python26\Lib\site-packages\gasp\backend.py
+200 File Copy: C:\Python26\Lib\site-packages\gasp\color.py
+100 Made Dir: C:\Python26\Lib\site-packages\gasp-0.2.0beta1-py2.6.egg-info
+200 File Copy: C:\Python26\Lib\site-packages\gasp-0.2.0beta1-py2.6.egg-info\top_level.txt
+200 File Copy: C:\Python26\Lib\site-packages\gasp-0.2.0beta1-py2.6.egg-info\PKG-INFO
+200 File Copy: C:\Python26\Lib\site-packages\gasp-0.2.0beta1-py2.6.egg-info\SOURCES.txt
+200 File Copy: C:\Python26\Lib\site-packages\gasp-0.2.0beta1-py2.6.egg-info\dependency_links.txt

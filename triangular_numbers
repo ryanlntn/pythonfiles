@@ -1,0 +1,3 @@
+def print_triangular_numbers(n):
+    number = n*(n+1)/2
+    print number
